@@ -1,0 +1,12 @@
+header{
+    font-family: "Brush Script MT";
+    font-style: cursive;
+    font-size: 70px;
+    text-align: center;
+    font-weight:lighter;
+    font-stretch: extra-expanded;
+}
+.header img{
+        float: left;
+        border-radius: 50%;
+    }
